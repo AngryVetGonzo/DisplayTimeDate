@@ -19,7 +19,7 @@
 </head>
 <body>
 	<div id="container">
-		<h1>The current Time and Date: </h1>
+		<h1>The current Time and Date </h1>
 		<h2>The Time: <?php echo $time ?></h2>
 		<h2>The Date: <?php echo $date ?></h2>
 	</div>
